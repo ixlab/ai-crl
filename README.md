@@ -2,7 +2,7 @@
 _Based on ideas by Anna Gawboy & Arnab Nandi_
 
 ### Unlocking the Potential of AI in Education
-We are at an exciting frontier where "General Purpose" AI models are entering educational spaces. These tools possess incredible **General Capability**, but to truly transform education, they must achieve high **Instructional Readiness**.
+We are at an exciting frontier where "General Purpose" AI models and tools are entering educational spaces. These models and tools possess incredible **General Capability**, but to truly transform education, they must achieve high **Instructional Readiness**.
 
 The **Classroom Readiness Levels (AI-CRL)** framework offers a shared language for developers and educators to bridge the gap between what AI models *can* do and what classrooms *need*. The framework evaluates the "Classroom Readiness" of a model or tool across three critical lanes: **Efficiency, Cognition, and Reliability.**
 
